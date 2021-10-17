@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Federico Tombari"
-  avatar           : "imgs/portrait.jpg"
+  avatar           : "portrait.jpg"
   bio              : "Research Scientist, Lecturer"
   location         : "Google, TUM"
   employer         :
