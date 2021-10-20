@@ -10,13 +10,14 @@ redirect_from:
 
 I am a Research Scientist and manager at [Google Zurich](https://research.google/people/FedericoTombari/) (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at TU Munich (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
 
-An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity has been mostly focused on 3D computer vision, such as 3D scene understanding, 3D object recognition, 3D reconstruction/modeling, SLAM. The fields of application of my research are mainly in robotics, healthcare, augmented reality and autonomous driving. Currently I am particularly excited about unsupervised/self-supervised learning, deep implicit models and scene graphs. 
+An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity has been always focused on 3D computer vision, such as 3D scene understanding, 3D object recognition, 3D reconstruction/modeling, SLAM. The fields of application of my research are mainly in *robotics, healthcare, augmented reality and autonomous driving*. Currently I am particularly excited about unsupervised/self-supervised learning, deep implicit models and scene graphs. 
 
 
 ## News
 
 * Oct 2021: I was awarded a [Neurips](https://nips.cc/Conferences/2021/) '21 Oustanding Reviewer award.
 * Sep 2021: I was awarded an [ICCV '21](http://iccv2021.thecvf.com/) Outstanding Reviewer award.
+* Sep 2021: I am an Associate Editor for [ICRA '22](https://www.icra2022.org/)
 * Aug 2021: 3 papers accepted at [ICCV '21](http://iccv2021.thecvf.com/).
 * Jul 2021: I am Area Chair at 3DV '21
 * Jun 2021: I was awarded a [CVPR '21](https://cvpr2021.thecvf.com/) Outstanding Reviewer award.
