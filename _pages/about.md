@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist and Manager at [Google Zurich](https://research.google/people/FedericoTombari/) (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at TU Munich (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
+I am a Research Scientist and Manager at **[Google Zurich]**(https://research.google/people/FedericoTombari/) (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at **TU Munich** (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
 
-An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity has been mostly focused on different aspects of **3D computer vision**, such as 3D scene understanding, 3D object recognition, 3D reconstruction/modeling, SLAM. The fields of application of my research are mainly in **robotics, augmented reality, autonomous driving and healthcare**. I am currently particularly excited about unsupervised/self-supervised learning, deep implicit models and scene graphs for scene understanding. 
+An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity has been mostly focused on different aspects of **3D computer vision**, such as 3D scene understanding, 3D object recognition, 3D reconstruction/modeling, SLAM. The fields of application of my research are mainly in **robotics, augmented reality, autonomous driving and healthcare**. I am currently particularly excited about unsupervised/self-supervised learning for visual data, deep implicit models and scene graphs for scene understanding. 
 
 
 ## News
 
 * Mar 2022: 6 papers accepted at CVPR 2022
-* Feb 2022: I am Area Chair of ECCV 2022
+* Feb 2022: I am Area Chair for ECCV 2022
 * Jan 2022: I am Assoc. Editor for IROS 2022. 
 * Oct 2021: I was awarded a [Neurips](https://nips.cc/Conferences/2021/) '21 Oustanding Reviewer award.
 * Sep 2021: I was awarded an [ICCV '21](http://iccv2021.thecvf.com/) Outstanding Reviewer award.
