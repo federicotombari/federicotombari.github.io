@@ -15,6 +15,9 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ## News
 
+* Mar 2022: 6 papers accepted at CVPR 2022
+* Feb 2022: I am Area Chair of ECCV 2022
+* Jan 2022: I am Assoc. Editor for IROS 2022. 
 * Oct 2021: I was awarded a [Neurips](https://nips.cc/Conferences/2021/) '21 Oustanding Reviewer award.
 * Sep 2021: I was awarded an [ICCV '21](http://iccv2021.thecvf.com/) Outstanding Reviewer award.
 * Sep 2021: I am an Associate Editor for [ICRA '22](https://www.icra2022.org/)
@@ -29,5 +32,4 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 * Mar 2020: My [TEDx talk](https://www.youtube.com/watch?v=MQ0sdYjUpDU) on deep learning and 3D computer vision is available online.
 * Feb 2020: 2 papers accepted at [CVPR '20](https://cvpr2020.thecvf.com/).
 * Aug 2019: 5 papers accepted at [ICCV '19](https://iccv2019.thecvf.com/), 2 of which orals (4.3% acceptance rate).
-* Jul 2019: 1 paper accepted at ICRA '19, 2 papers accepted at IROS '19 (1 with RA-L publication).
-* Jul 2019: Our first [Meetup in computer vision in Zurich](https://www.meetup.com/ComputerVisionZurich/) will be on July 24 on the topic of perception and learning for drones.
+
