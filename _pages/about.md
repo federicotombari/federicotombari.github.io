@@ -15,14 +15,16 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ## News
 
+* Jul 2022: 5 papers accepted at ECCV 2022
+* May 2022: I am Area Chair for 3Dv 2022
 * Mar 2022: 6 papers accepted at CVPR 2022
 * Feb 2022: I am Area Chair for ECCV 2022
 * Jan 2022: I am Assoc. Editor for IROS 2022. 
 * Oct 2021: I was awarded a [Neurips](https://nips.cc/Conferences/2021/) '21 Oustanding Reviewer award.
 * Sep 2021: I was awarded an [ICCV '21](http://iccv2021.thecvf.com/) Outstanding Reviewer award.
-* Sep 2021: I am an Associate Editor for [ICRA '22](https://www.icra2022.org/)
+* Sep 2021: I am Associate Editor for [ICRA '22](https://www.icra2022.org/)
 * Aug 2021: 3 papers accepted at [ICCV '21](http://iccv2021.thecvf.com/).
-* Jul 2021: I am Area Chair at [3DV '21](https://3dv2021.surrey.ac.uk/)
+* Jul 2021: I am Area Chair for [3DV '21](https://3dv2021.surrey.ac.uk/)
 * Jun 2021: I was awarded a [CVPR '21](https://cvpr2021.thecvf.com/) Outstanding Reviewer award.
 * Apr 2021: 4 papers accepted at [CVPR '21](https://cvpr2021.thecvf.com/).
 * Mar 2021: 5 papers accepted at ICRA '21.
