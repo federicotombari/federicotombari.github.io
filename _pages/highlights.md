@@ -19,10 +19,11 @@ author_profile: true
 
 ### As Team Lead/Manager
 
-* Since 2019, Manager and Research Scientist at Google Zurich (Switzerland)
-* Managing an applied CV/ML research team of 40+ Research Scientists and SWEs across multiple offices in North America and EMEA
-* Launched new CV/ML features used by Google products including: Lens, ARCore, Lookout, ML Kit, Bard
-* Since 2014, leading a research team of Ph.D. students at TUM (Germany). Between 2015-2018 the team was 20+ PhD students/postdocs and attracted 6M+ EUR funding.
+* 2019-now: Manager and Research Scientist at Google Zurich (Switzerland)
+  * Managing an applied CV/ML research team of 40+ Research Scientists and SWEs across multiple offices in North America and EMEA
+  * Launched new CV/ML features used by Google products including: Lens, ARCore, Lookout, ML Kit, Bard
+* 2014-now: leading a research team of Ph.D. students at TUM (Germany)
+  * Between 2015-2018 the team included 20+ PhD students/postdocs and attracted 6M+ EUR funding.
 * Research partnerships/projects with Google, Toyota, BMW, Audi, Zeiss, Amazon, Stanford Un, Oxford Un., MIT, ETH, MPI Tübingen/Saarbrucken, Cornell, Berkeley Un., JHU, TsingHua Un. (among others)
 
 ### As Entrepreneur:
