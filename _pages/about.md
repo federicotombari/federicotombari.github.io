@@ -21,8 +21,9 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ## News
 
+* Aug 2023: 6 papers accepted at ICCV 2023 in Paris
 * Jul 2023: Our next [Zurich Computer Vision Meetup](https://www.meetup.com/computervisionzurich/events/294328111/) will be on July 13 at Meta Zurich on "Building a digital world" 
-* Feb 2023: 5 papers accepted at CVPR 2023
+* Feb 2023: 5 papers accepted at CVPR 2023 in Vancouver
 * Jul 2022: 5 papers accepted at ECCV 2022
 * May 2022: I am Area Chair for 3DV 2022
 * Mar 2022: 6 papers accepted at CVPR 2022
