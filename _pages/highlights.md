@@ -5,10 +5,28 @@ permalink: /highlights/
 author_profile: true
 ---
 
-{% include base_path %}
+### As Researcher/Professor:
 
-{% for post in site.highlights reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* 16+ years of expertise in computer vision and machine learning with applications in robotics, augmented reality, autonomous driving and healthcare
+* 250+ peer-reviewed publications, 18000+ citations, h-index=60 (Google Scholar)
+* Well-known research contributions in 3D object detection and tracking, scene understanding, shape representations, 3D reconstruction and SLAM
+* Supervisor for 200+ Ph.D, Master and Bachelor Theses
+* Award recipient including 2 Google Faculty Awards and 1 Amazon Research Award
+* Regularly serving as Area Chair for CVPR/ECCV/NeurIPS/IROS/ICRA/..
+* Core developer and core member of the open source Point Cloud Library (PCL)
+* Former intern and consultant at Willow Garage
 
-Coming soon. 
+### As Team Lead/Manager
+
+* Since 2019, Manager and Research Scientist at Google Zurich (Switzerland)
+* Managing an applied CV/ML research team of 40+ Research Scientists and SWEs across North America and EMEA
+* Launched new CV/ML features used by Google products including: Lens, ARCore,
+Lookout, ML Kit, Bard.
+* Since 2014, Team Lead of a research team of Ph.D. students at TUM (Germany)
+* In 2015-2018 team was 20+ PhD students/postdocs and attracted 6M+ EUR funding
+* Research partnerships/projects with Google, Toyota, BMW, Audi, Zeiss, Amazon, Stanford Un, Oxford Un., MIT, ETH, MPI Tübingen/Saarbrucken, Cornell, Berkeley Un., JHU, TsingHua Un. (among others)
+
+### As Entrepreneur:
+
+* Co-founder and CEO of Pointu3D GmbH, startup acquired by Google in 2019
+* Scientific advisor of computer vision startups for AR and autonomous driving including Fyusion (exit 2021) and Apex.AI (56M USD series B)
