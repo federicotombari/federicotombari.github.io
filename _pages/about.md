@@ -20,7 +20,6 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 * I am co-organizing [3DV 2024](https://3dvconf.github.io/2024/) as a Program Chair, to be held in beautiful Davos (Switzerland) 
 * In 2023, I am an Area Chair for CVPR 2023 and NeurIPS 2023
 * In 2023, I serve as Associate Editor for the International Journal of Robotics Research ([IJRR](https://journals.sagepub.com/home/ijr))
-   Oct 2021: I was awarded a [Neurips](https://nips.cc/Conferences/2021/) '21 Oustanding Reviewer award.
 
 ## Recent Invited Talks 
 
