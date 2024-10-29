@@ -14,7 +14,7 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ## Conference organization / Editorial Boards
 
-* In 2025, I will server as Area Chair for CVPR25, 3DV25 and Ass. Editor for ICRA25
+* In 2025, I will serve as Area Chair for CVPR25, 3DV25 and Ass. Editor for ICRA25
 * I was one of the **Outstanding AC** awardees from ECCV24 
 * In 2024, I will serve as Area Chair for CVPR24, NeurIPS24, 3DV24
 * I am co-organizing [3DV 2024](https://3dvconf.github.io/2024/) as a Program Chair, to be held in beautiful Davos (Switzerland) 
