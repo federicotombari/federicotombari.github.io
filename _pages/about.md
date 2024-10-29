@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Director of Research at **[Google Zurich](https://research.google/people/FedericoTombari/)** (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning across Mountain View, Zurich and Munich. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at **TU Munich** (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
+I am a Director of Research at **[Google Zurich](https://research.google/people/FedericoTombari/)** (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning across US, Switzerland and Germany. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at **TU Munich** (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
 
 An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity is focused on different aspects of **computer vision** and **machine learning**, with a focus on **3D computer vision** (e.g. scene understanding, 3D object recognition, 3D reconstruction, SLAM). The fields of application of my research are mainly in **robotics, augmented reality, autonomous driving and healthcare**. I am currently particularly excited about unsupervised learning for visual data, Large Multimodal Models, neural radiance fields and scene graphs for scene understanding. 
 
