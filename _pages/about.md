@@ -14,7 +14,7 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ## News
 
-# Recent publications
+### Recent publications
 
 * 12 papers accepted at ECCV 2024 in Milan
 * 2 papers accepted at NeurIPS 2024 
@@ -25,7 +25,7 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 * Jul 2022: 5 papers accepted at ECCV 2022
 * Mar 2022: 6 papers accepted at CVPR 2022
 
-# Recent Conference organization / Editorial Board roles
+### Recent Conference organization / Editorial Board roles
 
 * In 2025, I will serve as Area Chair for [CVPR25](https://cvpr.thecvf.com/), [3DV25](https://3dvconf.github.io/2025/) and Ass. Editor for [ICRA25](https://2025.ieee-icra.org/)
 * I was one of the **Outstanding AC** awardees from [ECCV24](https://eccv.ecva.net/) 
@@ -34,7 +34,7 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 * In 2023, I am an Area Chair for CVPR23 and NeurIPS23
 * Starting in 2023, I will serve as Associate Editor for the International Journal of Robotics Research ([IJRR](https://journals.sagepub.com/home/ijr))
 
-# Recent Invited Talks 
+### Recent Invited Talks 
 
 In **2024** I've had the pleasure to be invited to speak at the following events:
 
