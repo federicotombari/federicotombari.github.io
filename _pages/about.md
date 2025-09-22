@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Director of Research at **[Google Zurich](https://research.google/people/FedericoTombari/)** (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning across US, Switzerland and Germany. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at **TU Munich** (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
+I am a Director of Research at **[Google Zurich](https://research.google/people/FedericoTombari/)** (Switzerland), where I lead an applied research team in Computer Vision and Machine Learning across North America, Europe and Asia. I am also affiliated to the [Faculty of Computer Science](https://www.in.tum.de/startseite/) at **TU Munich** (Germany) as [lecturer](https://www.in.tum.de/campar/members/senior-research-scientists/federico-tombari/) (Privatdozent). 
 
 An up-to-date list of publications is available at my [Google Scholar](https://scholar.google.de/citations?user=TFsE4BIAAAAJ&hl=en). My research activity is focused on different aspects of **computer vision** and **machine learning**, with a focus on **3D computer vision** (e.g. scene understanding, 3D object recognition, 3D reconstruction, SLAM). The fields of application of my research are mainly in **robotics, augmented reality, autonomous driving and healthcare**. I am currently particularly excited about unsupervised learning for visual data, Large Multimodal Models, (Neural) Radiance Fields and scene graphs for scene understanding. 
 
@@ -16,18 +16,21 @@ An up-to-date list of publications is available at my [Google Scholar](https://s
 
 ### Recent publications
 
-* 12 papers accepted at ECCV 2024 in Milan
-* 2 papers accepted at NeurIPS 2024 
+* 5 papers accepted at NeurIPS 2025 in San Diego (US)
+* 6 papers accepted at ICCV 2025 in Honolulu (US)
+* 10 papers accepted at CVPR 2025 in Nashville (US)
+* 2 Spotlight papers accepted at ICLR 2025 in Singapore
+* 12 papers accepted at ECCV 2024 in Milan (IT)
+* 2 papers accepted at NeurIPS 2024 in Vancouver (CA)
 * 7 papers accepted at CVPR 2024 in Seattle
 * 6 papers accepted at ICCV 2023 in Paris
 * 5 papers accepted at CVPR 2023 in Vancouver
-* Jul 2023: Our next [Zurich Computer Vision Meetup](https://www.meetup.com/computervisionzurich/events/294328111/) will be on July 13 at Meta Zurich on "Building a digital world"  
-* Jul 2022: 5 papers accepted at ECCV 2022
-* Mar 2022: 6 papers accepted at CVPR 2022
+
 
 ### Recent Conference organization / Editorial Board roles
 
-* In 2025, I will serve as Area Chair for [CVPR25](https://cvpr.thecvf.com/), [3DV25](https://3dvconf.github.io/2025/) and Ass. Editor for [ICRA25](https://2025.ieee-icra.org/)
+* In 2026, I will serve as Area Chair for [CVPR26](https://cvpr.thecvf.com/) and Program Chair for ECCV26. 
+* In 2025, I will serve as Area Chair for [CVPR25](https://cvpr.thecvf.com/), ICCV25, NeurIPS25, [3DV25](https://3dvconf.github.io/2025/) and Ass. Editor for [ICRA25](https://2025.ieee-icra.org/)
 * I was one of the **Outstanding AC** awardees from [ECCV24](https://eccv.ecva.net/) 
 * In 2024, I am serving as Area Chair for CVPR24 and NeurIPS24; Senior AC for ECCV24; and Ass. Editor for ICRA24
 * I am co-organizing [3DV 2024](https://3dvconf.github.io/2024/) as a Program Chair, to be held in beautiful Davos (Switzerland) 
